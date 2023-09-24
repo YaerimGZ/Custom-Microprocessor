@@ -1,0 +1,37 @@
+v 3
+file "D:\umhdl-workspace\Procesador\REG3E8\" "REG3E8.vhd" "20210603200720.000" "20210603130720.649":
+  entity reg3e8 at 15( 370) + 0 on 537;
+  architecture arq1 of reg3e8 at 25( 636) + 0 on 538;
+file "D:\umhdl-workspace\Procesador\PC\" "PC.vhd" "20210603040154.000" "20210603120558.496":
+  entity pc at 15( 363) + 0 on 487;
+  architecture arq1 of pc at 25( 629) + 0 on 488;
+file "D:\umhdl-workspace\Procesador\MEMORIA\" "MEMORIA.vhd" "20210605021334.000" "20210604191406.006":
+  entity memoria at 15( 372) + 0 on 685;
+  architecture arq1 of memoria at 25( 626) + 0 on 686;
+file "D:\umhdl-workspace\Procesador\DECODIFICADOR\" "DECODIFICADOR.vhd" "20210604192756.000" "20210604191415.917":
+  entity decodificador at 15( 384) + 0 on 691;
+  architecture arq1 of decodificador at 28( 705) + 0 on 692;
+file "D:\umhdl-workspace\Procesador\ALU\" "ALU.vhd" "20210604035912.000" "20210603205915.473":
+  entity alu at 15( 364) + 0 on 653;
+  architecture arq1 of alu at 27( 685) + 0 on 654;
+file "D:\umhdl-workspace\Procesador\CPU\" "CPU.vhd" "20210604175918.000" "20210604191654.908":
+  entity cpu at 15( 375) + 0 on 697;
+  architecture arq1 of cpu at 25( 670) + 0 on 698;
+file "D:\umhdl-workspace\Procesador\CPU\" "CPU_tb.vhd" "20210605021356.000" "20210604191655.013":
+  entity cpu_tb at 15( 378) + 0 on 699;
+  architecture testbench of cpu_tb at 22( 529) + 0 on 700;
+file "D:\umhdl-workspace\Procesador\CONTROL\" "CONTROL.vhd" "20210604042114.000" "20210603212116.265":
+  entity control at 15( 372) + 0 on 675;
+  architecture arq1 of control at 25( 635) + 0 on 676;
+file "D:\umhdl-workspace\Procesador\FR\" "FR.vhd" "20210603010218.000" "20210603120548.997":
+  entity fr at 15( 362) + 0 on 481;
+  architecture arq1 of fr at 24( 567) + 0 on 482;
+file "D:\umhdl-workspace\Procesador\MUX4\" "MUX4.vhd" "20210603022158.000" "20210603120555.559":
+  entity mux4 at 15( 377) + 0 on 485;
+  architecture arq1 of mux4 at 25( 648) + 0 on 486;
+file "D:\umhdl-workspace\Procesador\REG2E9\" "REG2E9.vhd" "20210603010046.000" "20210603120601.204":
+  entity reg2e9 at 15( 376) + 0 on 489;
+  architecture arq1 of reg2e9 at 26( 684) + 0 on 490;
+file "D:\umhdl-workspace\Procesador\RG8\" "RG8.vhd" "20210603201506.000" "20210603131508.021":
+  entity rg8 at 14( 374) + 0 on 561;
+  architecture arq1 of rg8 at 24( 638) + 0 on 562;
